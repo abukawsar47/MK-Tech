@@ -1,0 +1,12 @@
+.summary {
+    padding: 120px 0;
+    margin: 30px;
+    border-radius: 50%;
+    border: 2px dashed white;
+    text-align: center;
+    color: white;
+}
+
+.b-none {
+    border: none;
+}
